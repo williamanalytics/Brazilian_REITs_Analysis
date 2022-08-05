@@ -1,6 +1,6 @@
 # Brazilian_REITs_Analysis.
 
-In this project it was used Webscrapping through the Website: xxxxxxxxxx to explore all Brazilian REITS disponible on the market. It was basically created to give the investor some imprtant variable to consider on the research.
+In this project it was used Webscrapping through the Website: https://www.fundsexplorer.com.br/ranking to explore all Brazilian REITS disponible on the market. It was basically created to give the investor some important variables to consider on your research.
 
 Primarily, it consists to choose into the select box any stocks from SP 500 and discover the last 4 quarterly period of Financial Statement, shareholders and the recommendation of the different and important types Financial group around the world.
 
