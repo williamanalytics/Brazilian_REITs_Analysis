@@ -2,7 +2,7 @@
 
 ### Disclamer:
 
-This tool is just for find out comparison between REITS and Sectors, as well as figure out which would have more discount in relation of a specific variable.
+This tool is just for find out comparison between REITS and Sectors, as well as figure out which would have more discount or advantage in relation of a specific variable.
 
 Do your research, many variable has to be put into your decision.
 
