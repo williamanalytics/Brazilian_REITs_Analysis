@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 URL = 'https://www.fundsexplorer.com.br/ranking'
 answer = requests.get(URL)
 
-data = pd.read_html(answer.content)[0]
+data = pd.read_html(answer.content, encoding='utf-8')[0]
 
 data.sort_values('Códigodo fundo', inplace=True)
 
